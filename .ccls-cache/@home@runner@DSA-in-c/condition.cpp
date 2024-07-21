@@ -1,6 +1,6 @@
-#include <iostream>
-using namespace std;
-int main() {
+//#include <iostream>
+//using namespace std;
+//int main() {
   /*....................+ve,-ve and 0.....................
   int a;
  cout<<"value of A:";
@@ -32,5 +32,5 @@ int main() {
           cout<<"Both are equal";
       }*/
 
-  return 0;
-}
+  //return 0;
+//}
